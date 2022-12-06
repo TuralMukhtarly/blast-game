@@ -1,0 +1,1 @@
+https://turalmukhtarly.github.io/blast-game/
