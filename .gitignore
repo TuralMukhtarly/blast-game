@@ -1,0 +1,4 @@
+# Node artifact files
+.cache/
+node_modules/
+dist/
